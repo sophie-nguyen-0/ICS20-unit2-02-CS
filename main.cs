@@ -12,5 +12,8 @@ class Program
         Console.WriteLine ("dimensions of a rectangle are: 6cm and 7cm");
         Console.WriteLine ("the perimeter is:" + ((6 + 7) * 2));
         Console.WriteLine ("the area is:" + (6 * 7));
+
+       Console.WriteLine ("\nDone.");
+
   }
 }
